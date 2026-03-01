@@ -107,5 +107,5 @@ Student Bio
 
 Name: Emre Yılmaz
 Program: Construction Engineering and Management – Boğaziçi University  
-Bio: architect based PM trying to manage construction projects in retail business
+Bio: Architect-based PM trying to manage construction projects in retail business.
 
