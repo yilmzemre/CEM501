@@ -104,3 +104,6 @@ See [SUBMISSION_GUIDELINES.md](SUBMISSION_GUIDELINES.md) for homework and projec
 **Dr. Eyuphan Koc** | eyuphan.koc@bogazici.edu.tr
 Department of Civil Engineering, Bogazici University
 
+Name: Emre Yılmaz
+Program: Construction Engineering and Management – Boğaziçi University  
+Bio: Architect-based PM trying to manage construction projects in retail business.
