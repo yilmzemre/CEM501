@@ -105,7 +105,3 @@ See [SUBMISSION_GUIDELINES.md](SUBMISSION_GUIDELINES.md) for homework and projec
 Department of Civil Engineering, Bogazici University
 Student Bio
 
-Name: Emre Yılmaz
-Program: Construction Engineering and Management – Boğaziçi University  
-Bio: Architect-based PM trying to manage construction projects in retail business.
-
