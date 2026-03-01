@@ -131,7 +131,7 @@ Response-2. Meeting Minutes: Shop Drawing Review & Coordination
 
 Prompt-3. Let's assume that we are not able to handover a boutique on time and we need to inform our client with the delay and its consequences. What is the best way to approach this situation and inform the client?
 
-Respons-3. In boutique retail construction, a delay is more than just a missed date—it involves missed marketing launches, staff payroll for a store that isn't open,
+Response-3. In boutique retail construction, a delay is more than just a missed date—it involves missed marketing launches, staff payroll for a store that isn't open,
   and lost seasonal revenue.
 
   The best approach is Transparency + Mitigation. Do not wait for the client to ask; tell them as soon as the delay is a mathematical certainty.
